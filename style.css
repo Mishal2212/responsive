@@ -415,7 +415,7 @@ main section.view6 .down button {
   }
   main section.view2 {
     flex-direction: row;
-    padding: 1rem 1rem;
+    padding: 1rem 4rem;
     margin: 1.5rem;
   }
   main section.view2 .element large {
@@ -425,6 +425,7 @@ main section.view6 .down button {
     font-weight: 900;
   }
   main section.view3 {
+    padding: 1rem 4rem;
     flex-direction: row-reverse;
   }
   main section.view3 .top, main section.view3 .bottom {
@@ -446,6 +447,7 @@ main section.view6 .down button {
   }
   main section.view4 {
     flex-direction: row;
+    padding: 1rem 4rem;
   }
   main section.view4 .top, main section.view4 .bottom {
     width: 50%;
@@ -466,6 +468,9 @@ main section.view6 .down button {
     line-height: 2rem;
     width: 80%;
   }
+  main section.viewheading {
+    padding: 1rem 4rem;
+  }
   main section.viewheading .heading .findjob {
     display: flex;
     flex-direction: row;
@@ -481,9 +486,11 @@ main section.view6 .down button {
   }
   main section.view5 {
     flex-direction: row;
+    padding: 1rem 4rem;
   }
   main section.view6 {
     flex-direction: row;
+    padding: 1rem 4rem;
   }
   main section.view6 .bottom {
     gap: 10rem;

@@ -473,7 +473,7 @@ main{
 
         section.view2{
             flex-direction: row;
-            padding: 1rem 1rem; 
+            padding: 1rem 4rem; 
             margin: 1.5rem;
 
             .element{
@@ -489,6 +489,7 @@ main{
         }
 
         section.view3{
+            padding: 1rem 4rem;
             flex-direction: row-reverse;
 
             .top,.bottom{
@@ -518,6 +519,8 @@ main{
 
         section.view4{
             flex-direction: row;
+            padding: 1rem 4rem;
+            
 
             .top,.bottom{
                 width: 50%;
@@ -548,6 +551,7 @@ main{
 
 
         section.viewheading{
+            padding: 1rem 4rem;
             .heading{
                 .findjob{
                     display: flex;
@@ -568,10 +572,13 @@ main{
 
         section.view5{
             flex-direction: row;
+            padding: 1rem 4rem;
+            
         }
 
         section.view6{
             flex-direction: row;
+            padding: 1rem 4rem;
             
             .bottom{
                 gap: 10rem;
